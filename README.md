@@ -24,7 +24,7 @@ Here is my Portfolio as Data Analyst, please check it out!
 * SQL Window Function
 
 ### Deck :
-[Structured Query Language](https://drive.google.com/file/d/1pL3b73PEav3U2CWDvTMt3FXDERvllViS/view?usp=sharing)
+[Structured Query Language](https://docs.google.com/presentation/d/115HMPKwICronXa3-hkECb6yobVm2aULYocnS8wQVyJQ/edit?usp=sharing)
 
 ### Code Example :
 1. [Create a query to get the number of unique users, number of orders, and total sale price status and month](https://console.cloud.google.com/bigquery?sq=1070869733949:7b92dc355a8f49b0be8f20e871cb4ce1)
